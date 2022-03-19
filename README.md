@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RickKrsc
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front-end developing
+- 🌱 I’m currently learning React and Javascript
+- 💞️ I’m looking to collaborate for someone who can make me grow as a developert
+- 📫 How to reach me: riccarodcrescenzi819@gmail.com
 
 
